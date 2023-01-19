@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: yuuuulim.github.io
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: yulim98@icloud.com
+phone: +82 (0)10 9848 1326
+address: # 125/A, CA Commercial Area, California, USA
+copyright:  Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,22 +36,22 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Yulim <br> Web Backend Developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  #- { icon: "ti-facebook", link: "#" }
+  #- { icon: "ti-instagram", link: "#" }
+  #- { icon: "ti-dribbble", link: "#" }
+  #- { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: 개발자로 취업하려면 도대체 어떤 걸 준비해야 할까요? 저는 잘 몰랐습니다. 그래서 무작정 배우고 싶은 것을 배우고 준비했습니다. 이 블로그는 그 과정을 담은 작은 공간입니다. 서툴더라도 제 의지와 가능성을 지켜봐주세요. :)
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: 저를 소개합니다.
 
 # About Page
 
@@ -96,76 +96,72 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
-experience:
-  - {
-      name: Junior UX Designer,
-      icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
-    }
-  - {
-      name: UX & UI Designer,
-      icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
-    }
-  - {
-      name: Senior UI Designer,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
-    }
+#experience-title: Experience
+#experience:
+ # - {
+  #    name: Junior UX Designer,
+   #   icon: "icon-1.png",
+    #  date: "Jan 2007 - Feb 2009",
+     # organization: "WEBEX",
+    #}
+ # - {
+  #    name: UX & UI Designer,
+  #    icon: "icon-2.png",
+  #    date: "Mar 2009 - Aug 2014",
+   #   organization: "AUGMEDIX",
+   # }
+ # - {
+  #    name: Senior UI Designer,
+   #   icon: "icon-3.png",
+   #   date: "Sep 2014 - Present",
+   #   organization: "THEMEFISHER",
+   # }
 
 #-------------------------------
 # Education Section
 
 education-title: Education
 education:
+
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: 자바 기반 AWS 클라우드 활용 개발자과정,
+      date: "2022.10",
+      organization: "쌍용교육센터",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: 시각디자인과 시각정보디자인 전공,
+      date: "2020.02",
+      organization: "연성대학교 졸업",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: 인문계고등학교,
+      date: "2017",
+      organization: "고잔고등학교 졸업",
     }
 
 #-------------------------------
 # Services Section
 
-services-title: Services
-services:
-  - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
-  - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
-    }
-  - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
+#services-title: Services
+#services:
+ # - {
+  #    name: UI Design,
+   #   icon: ti-palette,
+    #  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+     # active: ,# Add true to select section
+    #}
+ # - {
+  #    name: UX Design,
+   #   icon: ti-vector,
+    #  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+     # active: true, # Add true to select section
+    #}
+  #- {
+   #   name: Interaction Design,
+    #  icon: ti-panel,
+     # description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+     # active: ,# Add true to select section
+    #}
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -246,58 +242,58 @@ portfolio-items:
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#testimonial-items:
+ # - name: "Jesica Gomez"
+  #  image: "assets/images/testimonial/client-1.png"
+   # designation: "CEO, Funder"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#
+ # - name: "Jesica Gomez"
+  #  image: "assets/images/testimonial/client-1.png"
+   # designation: "CEO, Funder"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+ # - name: "Jesica Gomez"
+  #  image: "assets/images/testimonial/client-1.png"
+   # designation: "CEO, Funder"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+#client-slider-items:
+ # - logo: "assets/images/clients-logo/client-logo-1.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-2.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-3.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-4.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-5.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-1.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-2.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-3.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-4.png"
+  #  url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+  #- logo: "assets/images/clients-logo/client-logo-5.png"
+  #  url: "#"
 
 #-------------------------------
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: yulim98@icloud.com
